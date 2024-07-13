@@ -3,6 +3,8 @@ package org.example;
 import java.util.LinkedList;
 
 /**
+ * 单调队列，代码随想录，三个方法 pop()、push()、getMaxValue()
+ *
  * Deque接口的方法
  * pollLast():从队列的末尾移除饼返回最后一个元素，如果队列为空，pollLast()返回null
  * peekLast():返回队列末尾的元素，不移除它，如果队列为空，peekLast()返回为null
